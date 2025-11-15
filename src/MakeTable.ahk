@@ -294,7 +294,7 @@ class MakeTable extends Array {
             Measure := _Measure2
         }
 
-        columnWidths := []
+        columnWidths := this.ColumnWidths := []
         columnWidths.Default := 0
         rowLines := this.RowLines := []
         rowLines.Default := 1
